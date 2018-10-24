@@ -1,5 +1,5 @@
 _repo: Fabiola-eli-katakombien-kirkko_58141
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Mannstén, Emil
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1944
     gutenberg_agent_id: '9320'
     url: http://www.gutenberg.org/2009/agents/9320
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wiseman, Nicholas
     gutenberg_agent_id: '49787'
     url: http://www.gutenberg.org/2009/agents/49787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58141#Fabiola-eli-katakombien-kirkko
 gutenberg_issued: '2018-10-20'
 gutenberg_type: Text
 identifiers:
