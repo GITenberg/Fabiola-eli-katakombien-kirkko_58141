@@ -1,0 +1,28 @@
+_repo: Fabiola-eli-katakombien-kirkko_58141
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mannstén, Emil
+    alias: Mannsten, Emil
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '9320'
+    url: http://www.gutenberg.org/2009/agents/9320
+creator:
+  author:
+    agent_name: Wiseman, Nicholas
+    gutenberg_agent_id: '49787'
+    url: http://www.gutenberg.org/2009/agents/49787
+description: ''
+gutenberg_issued: '2018-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58141'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fabiola eli katakombien kirkko
+url: http://www.gutenberg.org/ebooks/58141
